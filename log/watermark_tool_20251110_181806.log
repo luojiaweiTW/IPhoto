@@ -1,0 +1,22 @@
+2025-11-10 18:18:06 [INFO] 日志系统初始化完成，日志文件: log\watermark_tool_20251110_181806.log
+2025-11-10 18:18:06 [INFO] ============================================================
+2025-11-10 18:18:06 [INFO] 照片水印生成工具 v1.0
+2025-11-10 18:18:06 [INFO] ============================================================
+2025-11-10 18:18:06 [INFO] 日志文件: log\watermark_tool_20251110_181806.log
+2025-11-10 18:18:06 [INFO] ============================================================
+2025-11-10 18:18:06 [ERROR] 未捕获的异常:
+Traceback (most recent call last):
+  File "E:\code\tupianshuiyin\main.py", line 31, in <module>
+    from src.ui.main_window import run_app
+  File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1316
+    self.schedule_preview_update()
+    ^^^^
+IndentationError: expected an indented block after 'if' statement on line 1315
+
+2025-11-10 18:18:06 [ERROR] Traceback (most recent call last):
+2025-11-10 18:18:06 [ERROR]   File "E:\code\tupianshuiyin\main.py", line 31, in <module>
+    from src.ui.main_window import run_app
+2025-11-10 18:18:06 [ERROR]   File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1316
+2025-11-10 18:18:06 [ERROR]     self.schedule_preview_update()
+2025-11-10 18:18:06 [ERROR]     ^^^^
+2025-11-10 18:18:06 [ERROR] IndentationError: expected an indented block after 'if' statement on line 1315

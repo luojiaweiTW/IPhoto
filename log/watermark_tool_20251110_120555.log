@@ -1,0 +1,67 @@
+2025-11-10 12:05:55 [INFO] 日志系统初始化完成，日志文件: log\watermark_tool_20251110_120555.log
+2025-11-10 12:05:55 [INFO] ============================================================
+2025-11-10 12:05:55 [INFO] 照片水印生成工具 v1.0
+2025-11-10 12:05:55 [INFO] ============================================================
+2025-11-10 12:05:55 [INFO] 日志文件: log\watermark_tool_20251110_120555.log
+2025-11-10 12:05:55 [INFO] ============================================================
+2025-11-10 12:05:55 [INFO] 启动应用...
+2025-11-10 12:05:55 [INFO] 正在初始化GUI...
+2025-11-10 12:05:55 [INFO] ============================================================
+2025-11-10 12:05:55 [INFO] 初始化字体系统...
+2025-11-10 12:05:55 [INFO] ============================================================
+2025-11-10 12:05:55 [INFO] ✓ Qt文本编解码器: UTF-8
+2025-11-10 12:05:55 [INFO] ✓ 加载字体: 黑体 → SimHei
+2025-11-10 12:05:55 [INFO] 
+设置字体替换规则（强制使用: SimHei）
+2025-11-10 12:05:55 [INFO] ✓ 应用字体: SimHei
+2025-11-10 12:05:55 [INFO] ============================================================
+2025-11-10 12:05:55 [INFO] 正在创建主窗口...
+2025-11-10 12:05:55 [INFO] 正在加载模板...
+2025-11-10 12:05:55 [INFO] 成功加载 1 个模板
+2025-11-10 12:05:55 [INFO] 正在初始化界面...
+2025-11-10 12:05:56 [INFO] 界面初始化完成！
+2025-11-10 12:06:31 [INFO] ✓ 预览模式：图片缩放至 1920x1280，缩放比例: 0.34
+2025-11-10 12:06:32 [INFO] Logo 文件不存在: assets/logos/nikon.png
+2025-11-10 12:06:32 [INFO] 请将 Nikon 的 Logo 放置到对应目录
+2025-11-10 12:06:33 [ERROR] 未捕获的异常:
+Traceback (most recent call last):
+  File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1789, in _choose_border_color
+    current_color = QColor(self.input_border_color.text())
+NameError: name 'QColor' is not defined
+
+2025-11-10 12:06:33 [ERROR] Traceback (most recent call last):
+2025-11-10 12:06:33 [ERROR]   File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1789, in _choose_border_color
+    current_color = QColor(self.input_border_color.text())
+2025-11-10 12:06:33 [ERROR] NameError: name 'QColor' is not defined
+2025-11-10 14:09:25 [ERROR] 未捕获的异常:
+Traceback (most recent call last):
+  File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1789, in _choose_border_color
+    current_color = QColor(self.input_border_color.text())
+NameError: name 'QColor' is not defined
+
+2025-11-10 14:09:25 [ERROR] Traceback (most recent call last):
+2025-11-10 14:09:25 [ERROR]   File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1789, in _choose_border_color
+    current_color = QColor(self.input_border_color.text())
+2025-11-10 14:09:25 [ERROR] NameError: name 'QColor' is not defined
+2025-11-10 14:09:26 [ERROR] 未捕获的异常:
+Traceback (most recent call last):
+  File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1789, in _choose_border_color
+    current_color = QColor(self.input_border_color.text())
+NameError: name 'QColor' is not defined
+
+2025-11-10 14:09:26 [ERROR] Traceback (most recent call last):
+2025-11-10 14:09:26 [ERROR]   File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1789, in _choose_border_color
+    current_color = QColor(self.input_border_color.text())
+2025-11-10 14:09:26 [ERROR] NameError: name 'QColor' is not defined
+2025-11-10 14:09:27 [ERROR] 未捕获的异常:
+Traceback (most recent call last):
+  File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1789, in _choose_border_color
+    current_color = QColor(self.input_border_color.text())
+NameError: name 'QColor' is not defined
+
+2025-11-10 14:09:27 [ERROR] Traceback (most recent call last):
+2025-11-10 14:09:27 [ERROR]   File "E:\code\tupianshuiyin\src\ui\main_window.py", line 1789, in _choose_border_color
+    current_color = QColor(self.input_border_color.text())
+2025-11-10 14:09:27 [ERROR] NameError: name 'QColor' is not defined
+2025-11-10 14:21:50 [INFO] 程序已关闭
+2025-11-10 14:21:50 [INFO] 程序已关闭
