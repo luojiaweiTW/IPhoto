@@ -1,6 +1,6 @@
-## IPhoto - 照片水印装逼
+## IPhoto - 照片水印
 
-让你的照片，一键拥有专业感。IPhoto 是一款面向摄影爱好者与内容创作者的桌面级“照片加水印装逼”工具，支持中文字体完美显示、圆角卡片风格、自动品牌 Logo、批量处理与可视化模板编辑。
+让你的照片，一键拥有专业感。IPhoto 是一款面向摄影爱好者与内容创作者的桌面级“照片加水印”工具，支持中文字体完美显示、圆角卡片风格、自动品牌 Logo、批量处理与可视化模板编辑。
 
 > 仓库地址：[`luojiaweiTW/IPhoto`](https://github.com/luojiaweiTW/IPhoto)  
 > 适配 Windows（Python 3.x + PyQt5 + Pillow）。
@@ -118,6 +118,6 @@ python main.py
 
 - 项目仓库：[`https://github.com/luojiaweiTW/IPhoto`](https://github.com/luojiaweiTW/IPhoto)
 
-如果你喜欢这款“照片水印装逼”，欢迎 Star、提 Issue/PR，一起把它打磨成更好用的出片利器！
+如果你喜欢这款“照片水印”，欢迎 Star、提 Issue/PR，一起把它打磨成更好用的出片利器！
 
 
